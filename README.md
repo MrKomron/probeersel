@@ -1,4 +1,4 @@
 # hond
-Goedemorgen Git gebruikers
+Goedemorgen Git gebruikers. Hopelijk gaat het lukken.
 git oefeningen aan het doen
 hallo
