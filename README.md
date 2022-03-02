@@ -1,4 +1,5 @@
-# hond
-Goedemorgen Git gebruikers
-git oefening
-hallo iets
+# test
+Goedemorgen Git gebruikers. Hopelijk gaat het lukken.
+git oefeningen aan het doen
+hallo
+8406e5
