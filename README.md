@@ -1,4 +1,4 @@
 # probeersel
 Goedemorgen Git gebruikers
-git oefening
+git oefeningen aan het doen
 hallo
